@@ -1,0 +1,9 @@
+data/
+results/
+*.docx
+*.parquet
+*.jsonl
+.env
+__pycache__/
+*.pyc
+.DS_Store
