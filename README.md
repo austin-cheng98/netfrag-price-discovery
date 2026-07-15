@@ -1,6 +1,6 @@
 # Price Discovery in Fragmented Communication Networks
 
-The pipeline connects scheduled earnings announcements to the surrounding Reddit
+The pipeline links scheduled earnings announcements to the surrounding Reddit
 discussion, reconstructs the author reply graph for each event, measures its
 fragmentation (modularity, spectral gap, conductance, effective resistance,
 community entropy, interpretive dispersion), and relates a standardized
