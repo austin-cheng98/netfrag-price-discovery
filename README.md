@@ -1,7 +1,4 @@
-# Communication Network Fragmentation and Price Discovery
-
-Source code for the working paper *Communication Network Fragmentation and Price
-Discovery: Interpretive Diffusion after Exogenous Information Shocks* (Austin Cheng).
+# Price Discovery in Fragmented Communication Networks
 
 The pipeline links scheduled earnings announcements to the surrounding Reddit
 discussion, reconstructs the author reply graph for each event, measures its
